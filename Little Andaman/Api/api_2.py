@@ -27,7 +27,7 @@ async def load_rag_components():
         
         # Load your pre-built vector store (update the path)
         vector_store = FAISS.load_local(
-            folder_path=r"C:\Users\ACER\Documents\NIC_intern\Little Andaman\Api\V_set",
+            folder_path=r"Little Andaman/Api/V_set",
             embeddings=embeddings,
             allow_dangerous_deserialization=True
         )
