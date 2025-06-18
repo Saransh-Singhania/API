@@ -1,0 +1,148 @@
+{
+  "session_info": {
+    "session_id": "20250618_145117",
+    "total_messages": 18,
+    "user_messages": 9,
+    "assistant_messages": 9,
+    "start_time": "2025-06-18T14:51:17.832554",
+    "last_activity": "2025-06-18T14:51:25.657480",
+    "conversation_duration": "0m"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the GNIDP project about?",
+      "timestamp": "2025-06-18T14:51:17.832554",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:51:17.835536",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.002981901168823242
+      }
+    },
+    {
+      "role": "user",
+      "content": "What are the main environmental concerns with this project?",
+      "timestamp": "2025-06-18T14:51:17.838527",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:51:17.839524",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.000997304916381836
+      }
+    },
+    {
+      "role": "user",
+      "content": "How will these concerns be addressed?",
+      "timestamp": "2025-06-18T14:51:17.841519",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:51:17.843514",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.0019958019256591797
+      }
+    },
+    {
+      "role": "user",
+      "content": "Total Revenue land in little andaman",
+      "timestamp": "2025-06-18T14:51:17.875547",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:51:17.919082",
+      "metadata": {
+        "error": true,
+        "response_time": 0.04353499412536621
+      }
+    },
+    {
+      "role": "user",
+      "content": "Little andaman total land?",
+      "timestamp": "2025-06-18T14:51:25.303809",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:51:25.346352",
+      "metadata": {
+        "error": true,
+        "response_time": 0.042542457580566406
+      }
+    },
+    {
+      "role": "user",
+      "content": "Are there schools in little andaman? Id so, how many?",
+      "timestamp": "2025-06-18T14:51:25.371460",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:51:25.428720",
+      "metadata": {
+        "error": true,
+        "response_time": 0.057260751724243164
+      }
+    },
+    {
+      "role": "user",
+      "content": "Distance form little andaman",
+      "timestamp": "2025-06-18T14:51:25.459728",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:51:25.503742",
+      "metadata": {
+        "error": true,
+        "response_time": 0.04401421546936035
+      }
+    },
+    {
+      "role": "user",
+      "content": " sea distance between port blair & little andaman",
+      "timestamp": "2025-06-18T14:51:25.532466",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:51:25.584987",
+      "metadata": {
+        "error": true,
+        "response_time": 0.052521705627441406
+      }
+    },
+    {
+      "role": "user",
+      "content": "How many primary schools in little andaman?",
+      "timestamp": "2025-06-18T14:51:25.612428",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:51:25.657480",
+      "metadata": {
+        "error": true,
+        "response_time": 0.04505181312561035
+      }
+    }
+  ]
+}

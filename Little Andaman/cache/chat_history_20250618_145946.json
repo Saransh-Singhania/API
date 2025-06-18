@@ -1,0 +1,58 @@
+{
+  "session_info": {
+    "session_id": "20250618_145946",
+    "total_messages": 6,
+    "user_messages": 3,
+    "assistant_messages": 3,
+    "start_time": "2025-06-18T14:59:53.048634",
+    "last_activity": "2025-06-18T14:59:53.057879",
+    "conversation_duration": "0m"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the GNIDP project about?",
+      "timestamp": "2025-06-18T14:59:53.048634",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:59:53.050636",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.002001523971557617
+      }
+    },
+    {
+      "role": "user",
+      "content": "What are the main environmental concerns with this project?",
+      "timestamp": "2025-06-18T14:59:53.051633",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:59:53.053628",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.001995086669921875
+      }
+    },
+    {
+      "role": "user",
+      "content": "How will these concerns be addressed?",
+      "timestamp": "2025-06-18T14:59:53.054624",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:59:53.057879",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.0032548904418945312
+      }
+    }
+  ]
+}

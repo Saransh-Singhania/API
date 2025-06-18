@@ -1,0 +1,88 @@
+{
+  "session_info": {
+    "session_id": "20250618_144758",
+    "total_messages": 10,
+    "user_messages": 5,
+    "assistant_messages": 5,
+    "start_time": "2025-06-18T14:48:05.181804",
+    "last_activity": "2025-06-18T14:50:07.000596",
+    "conversation_duration": "2m"
+  },
+  "messages": [
+    {
+      "role": "user",
+      "content": "What is the GNIDP project about?",
+      "timestamp": "2025-06-18T14:48:05.181804",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:48:05.184796",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.0029916763305664062
+      }
+    },
+    {
+      "role": "user",
+      "content": "What are the main environmental concerns with this project?",
+      "timestamp": "2025-06-18T14:48:05.186799",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:48:05.191777",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.004978179931640625
+      }
+    },
+    {
+      "role": "user",
+      "content": "How will these concerns be addressed?",
+      "timestamp": "2025-06-18T14:48:05.193773",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I can only answer questions related to Little Andaman Island and GNIDP. Please ask a question about these subjects.",
+      "timestamp": "2025-06-18T14:48:05.194768",
+      "metadata": {
+        "relevant": false,
+        "response_time": 0.0009958744049072266
+      }
+    },
+    {
+      "role": "user",
+      "content": "What is the current status of little Andaman Island's infrastructure development?",
+      "timestamp": "2025-06-18T14:48:54.427324",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:48:54.472085",
+      "metadata": {
+        "error": true,
+        "response_time": 0.04475998878479004
+      }
+    },
+    {
+      "role": "user",
+      "content": "Total Revenue land in little andaman",
+      "timestamp": "2025-06-18T14:50:06.934526",
+      "metadata": {}
+    },
+    {
+      "role": "assistant",
+      "content": "I encountered an error processing your question: 'RetrievalQA' object has no attribute 'llm'",
+      "timestamp": "2025-06-18T14:50:07.000596",
+      "metadata": {
+        "error": true,
+        "response_time": 0.0660698413848877
+      }
+    }
+  ]
+}
